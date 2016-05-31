@@ -1,8 +1,7 @@
 # Boyer-Moore String Search
 [![Build Status](https://travis-ci.org/rm-hull/boyer-moore-search.svg?branch=master)](http://travis-ci.org/rm-hull/boyer-moore-search) [![Coverage Status](https://coveralls.io/repos/rm-hull/boyer-moore-search/badge.svg?branch=master)](https://coveralls.io/r/rm-hull/boyer-moore-search?branch=master) [![Dependencies Status](https://jarkeeper.com/rm-hull/boyer-moore-search/status.svg)](https://jarkeeper.com/rm-hull/boyer-moore-search) [![Downloads](https://jarkeeper.com/rm-hull/boyer-moore-search/downloads.svg)](https://jarkeeper.com/rm-hull/boyer-moore-search) [![Clojars Project](https://img.shields.io/clojars/v/rm-hull/boyer-moore-search.svg)](https://clojars.org/rm-hull/boyer-moore-search)
 
-An implementation of the Boyer-Moore string search algorithm in Clojure. Ported
-from https://github.com/rm-hull/cljs-dataview/blob/master/src/dataview/boyer_moore.cljs.
+An implementation of the Boyer-Moore string search algorithm in Clojure.
 The Wikipedia entry for this algorithm describes it thusly:
 
 > The Boyer-Moore algorithm searches for occurrences of _P_ in _T_ by
@@ -35,8 +34,9 @@ The Wikipedia entry for this algorithm describes it thusly:
 > text decreases the number of comparisons that have to be made, which is
 > the key to the efficiency of the algorithm.
 
-This clojure implementation is designed to work on strings, sequences
-and `java.io.InputStream`s.
+This clojure implementation is designed to work on strings, sequences, vectors,
+and `java.io.InputStream`. Ported from the original:
+https://github.com/rm-hull/cljs-dataview/blob/master/src/dataview/boyer_moore.cljs.
 
 ### Pre-requisites
 
