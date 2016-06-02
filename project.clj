@@ -1,4 +1,4 @@
-(defproject rm-hull/boyer-moore-search "0.2.0-SNAPSHOT"
+(defproject rm-hull/boyer-moore-search "0.0.1"
   :description "A parser-combinator library in Clojure"
   :url "https://github.com/rm-hull/boyer-moore-search"
   :license {
