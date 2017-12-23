@@ -40,7 +40,7 @@ https://github.com/rm-hull/cljs-dataview/blob/master/src/dataview/boyer_moore.cl
 
 ### Pre-requisites
 
-You will need [Leiningen](https://github.com/technomancy/leiningen) 2.6.1 or above installed.
+You will need [Leiningen](https://github.com/technomancy/leiningen) 2.8.1 or above installed.
 
 ### Building
 
@@ -56,7 +56,7 @@ There is a version hosted at [Clojars](https://clojars.org/rm-hull/boyer-moore-s
 For leiningen include a dependency:
 
 ```clojure
-[rm-hull/boyer-moore-search "0.0.1"]
+[rm-hull/boyer-moore-search "0.1.0"]
 ```
 
 For maven-based projects, add the following to your `pom.xml`:
@@ -65,7 +65,7 @@ For maven-based projects, add the following to your `pom.xml`:
 <dependency>
   <groupId>rm-hull</groupId>
   <artifactId>boyer-moore-search</artifactId>
-  <version>0.0.1</version>
+  <version>0.1.0</version>
 </dependency>
 ```
 
