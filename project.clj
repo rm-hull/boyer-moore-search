@@ -19,5 +19,5 @@
       [org.clojure/clojure "1.9.0"]]
     :plugins [
       [lein-codox "0.10.3"]
-        [lein-cljfmt "0.5.7"]
+      [lein-cljfmt "0.5.7"]
       [lein-cloverage "1.0.10"]]}})
