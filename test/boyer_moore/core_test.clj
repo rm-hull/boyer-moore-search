@@ -1,7 +1,7 @@
 (ns boyer-moore.core-test
   (:require
-    [clojure.test :refer :all]
-    [boyer-moore.core :refer [index-of]]))
+   [clojure.test :refer :all]
+   [boyer-moore.core :refer [index-of]]))
 
 (deftest boyer-moore->string
   (is (= (index-of "Hello world" "") 0))
