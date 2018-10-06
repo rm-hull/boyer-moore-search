@@ -1,5 +1,10 @@
 # Boyer-Moore String Search
-[![Build Status](https://travis-ci.org/rm-hull/boyer-moore-search.svg?branch=master)](http://travis-ci.org/rm-hull/boyer-moore-search) [![Coverage Status](https://coveralls.io/repos/rm-hull/boyer-moore-search/badge.svg?branch=master)](https://coveralls.io/r/rm-hull/boyer-moore-search?branch=master) [![Dependencies Status](https://jarkeeper.com/rm-hull/boyer-moore-search/status.svg)](https://jarkeeper.com/rm-hull/boyer-moore-search) [![Downloads](https://jarkeeper.com/rm-hull/boyer-moore-search/downloads.svg)](https://jarkeeper.com/rm-hull/boyer-moore-search) [![Clojars Project](https://img.shields.io/clojars/v/rm-hull/boyer-moore-search.svg)](https://clojars.org/rm-hull/boyer-moore-search)
+[![Build Status](https://travis-ci.org/rm-hull/boyer-moore-search.svg?branch=master)](http://travis-ci.org/rm-hull/boyer-moore-search) 
+[![Coverage Status](https://coveralls.io/repos/rm-hull/boyer-moore-search/badge.svg?branch=master)](https://coveralls.io/r/rm-hull/boyer-moore-search?branch=master) 
+[![Dependencies Status](https://versions.deps.co/rm-hull/boyer-moore-search/status.svg)](https://versions.deps.co/rm-hull/boyer-moore-search) 
+[![Downloads](https://versions.deps.co/rm-hull/boyer-moore-search/downloads.svg)](https://versions.deps.co/rm-hull/boyer-moore-search) 
+[![Clojars Project](https://img.shields.io/clojars/v/rm-hull/boyer-moore-search.svg)](https://clojars.org/rm-hull/boyer-moore-search)
+[![Maintenance](https://img.shields.io/maintenance/yes/2018.svg?maxAge=2592000)]()
 
 An implementation of the Boyer-Moore string search algorithm in Clojure.
 The Wikipedia entry for this algorithm describes it thusly:
