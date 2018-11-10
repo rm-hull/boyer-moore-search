@@ -1,5 +1,5 @@
 (defproject rm-hull/boyer-moore-search "0.1.0"
-  :description "A parser-combinator library in Clojure"
+  :description "Boyer-Moore string search library in Clojure"
   :url "https://github.com/rm-hull/boyer-moore-search"
   :license {
     :name "The MIT License (MIT)"
