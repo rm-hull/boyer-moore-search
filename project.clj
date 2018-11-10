@@ -9,6 +9,12 @@
   :jar-exclusions [#"(?:^|/).git"]
   :codox {
     :source-paths ["src"]
+    :doc-files [
+      "doc/background.md"
+      "doc/basic-usage.md"
+      "doc/references.md"
+      "LICENSE.md"
+    ]
     :output-path "doc/api"
     :source-uri "http://github.com/rm-hull/boyer-moore-search/blob/master/{filepath}#L{line}" }
   :min-lein-version "2.8.1"
