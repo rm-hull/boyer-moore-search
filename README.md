@@ -4,7 +4,7 @@
 [![Dependencies Status](https://versions.deps.co/rm-hull/boyer-moore-search/status.svg)](https://versions.deps.co/rm-hull/boyer-moore-search) 
 [![Downloads](https://versions.deps.co/rm-hull/boyer-moore-search/downloads.svg)](https://versions.deps.co/rm-hull/boyer-moore-search) 
 [![Clojars Project](https://img.shields.io/clojars/v/rm-hull/boyer-moore-search.svg)](https://clojars.org/rm-hull/boyer-moore-search)
-[![Maintenance](https://img.shields.io/maintenance/yes/2018.svg?maxAge=2592000)]()
+[![Maintenance](https://img.shields.io/maintenance/yes/2019.svg?maxAge=2592000)]()
 
 An implementation of the Boyer-Moore string search algorithm in Clojure.
 The Wikipedia entry for this algorithm describes it thusly:
